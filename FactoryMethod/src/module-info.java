@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Marcus
+ *
+ */
+module PadroesDeProjeto {
+}
